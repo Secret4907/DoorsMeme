@@ -1,0 +1,12 @@
+#trolei {
+    background-color: aqua;
+    font-size: 15px;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+}
+
+body {
+    background-color: chartreuse;
+    text-align: center;
+}
